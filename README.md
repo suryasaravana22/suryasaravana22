@@ -31,6 +31,12 @@ Applied CAPM, Fama-French factors, Monte Carlo simulation, and scenario analysis
 
 **Tools:** Python, Monte Carlo Simulation, CAPM, Fama-French, Quantitative Finance
 
+### 3. Tesla Inc.: Financial Strategy and Shareholder Value Analysis
+Built a detailed DCF valuation and WACC assessment to estimate enterprise value and evaluate long-term shareholder return potential.  
+Performed sensitivity analysis, analyzed pricing assumptions, and assessed cash-flow projections to support investment recommendations and valuation-based decision-making.
+
+**Tools:** DCF Valuation, WACC, Sensitivity Analysis, Financial Modeling, Excel
+
 ---
 
 ## Work Experience Highlights
@@ -53,14 +59,14 @@ Analyzed spending patterns and discrepancies to improve transfer accuracy and st
 
 **Finance & Quant:** Financial Modeling, Risk Analysis, Statistical Modeling, Time-Series Analysis, Scenario Analysis, Portfolio Optimization  
 **Programming:** Python, SQL, Excel VBA, MATLAB  
-**Tools:** Power BI, Bloomberg, Excel, GitHub Copilot  
-**Concepts:** Monte Carlo Simulation, CAPM, Fama-French, Fixed Income Risk & Valuation
+**Tools:** Power BI, Bloomberg, Excel  
+**Concepts:** Monte Carlo Simulation, CAPM, Fama-French, Fixed Income Risk & Valuation, DCF, WACC
 
 ---
 
 ## Contact
 
-- **Email:** surya.saravana2212@gmail.com
+- **Email:** saravana.s@northeastern.edu
 - **LinkedIn:** [linkedin.com/in/suryasaravana](https://linkedin.com/in/suryasaravana)
 
 ---
