@@ -66,7 +66,7 @@ Analyzed spending patterns and discrepancies to improve transfer accuracy and st
 
 ## Contact
 
-- **Email:** saravana.s@northeastern.edu
+- **Email:** surya.saravana2212@gmail.com
 - **LinkedIn:** [linkedin.com/in/suryasaravana](https://linkedin.com/in/suryasaravana)
 
 ---
