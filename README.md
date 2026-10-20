@@ -39,22 +39,6 @@ Performed sensitivity analysis, analyzed pricing assumptions, and assessed cash-
 
 ---
 
-## Work Experience Highlights
-
-### Quantitative Analyst – Data and Risk Analytics | Medinext Global LLC
-Built Python-based analytical pipelines to clean, transform, and validate large healthcare revenue cycle and claims datasets.  
-Developed models and reporting workflows to analyze denial, reimbursement, anomaly, and performance trends for risk and operational reporting.
-
-### Financial Planner | Finzly, Inc.
-Built forecasting and performance analysis models using SQL and Power BI to support budgeting, revenue planning, and financial reporting.  
-Performed variance, expense, and cost trend analysis to improve reporting efficiency and support decision-making.
-
-### Financial Analyst | SymphonyAI Summit
-Cleaned, validated, and reconciled departmental IT asset and cost data using Excel, improving reporting reliability and budgeting accuracy.  
-Analyzed spending patterns and discrepancies to improve transfer accuracy and strengthen financial control.
-
----
-
 ## Skills
 
 **Finance & Quant:** Financial Modeling, Risk Analysis, Statistical Modeling, Time-Series Analysis, Scenario Analysis, Portfolio Optimization  
