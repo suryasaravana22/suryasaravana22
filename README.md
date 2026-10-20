@@ -50,7 +50,7 @@ Performed sensitivity analysis, analyzed pricing assumptions, and assessed cash-
 
 ## Contact
 
-- **Email:** surya.saravana2212@gmail.com
+- **Email:** suryasaravana.official@gmail.com
 - **LinkedIn:** [linkedin.com/in/suryasaravana](https://linkedin.com/in/suryasaravana)
 
 ---
